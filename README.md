@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work on a 
 - [LinkedIn](www.linkedin.com/in/john-keisuke-miyabe-4b0032250)
 
 ## Special Mention
-Hi! [@username](https://github.com/smcating) my lovely girlfriend 💖💖💖💖💖💖💖
+Hi! [@smcatingub](https://github.com/smcatingub) my lovely girlfriend 💖💖💖💖💖💖💖
 
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
