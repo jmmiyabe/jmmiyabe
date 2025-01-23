@@ -1,6 +1,6 @@
 # Hi there, I'm jmmiyabe! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding and love to work on a variety of projects. Here's a little about me:
+Welcome to my GitHub profile!
 
 ## 🚀 About Me
 - 🌸 Bachelor of Science in Information Technology student at Asia Pacific College
