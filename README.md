@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm jmmiyabe! 👋
 
-<!--
-**jmmiyabe/jmmiyabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding and love to work on a variety of projects. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌸 Bachelor of Science in Information Technology student at Asia Pacific College
+- 📫 How to reach me: jmmiyabe@student.apc.edu.ph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technologies & Tools
+- 🌐 Programming Languages: PHP and JavaScript
+- 💻 Web Development: Laravel, Livewire, and Tailwind CSS
+- 🗄 Databases: MySQL
+- 🛠 Tools: Git, Laravel Sail, VS Code, and Docker
+
+## 📈 GitHub Stats
+
+![jmmiyabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmmiyabe&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [LinkedIn](www.linkedin.com/in/john-keisuke-miyabe-4b0032250)
+
+## Special Mention
+Hi! [@username](https://github.com/smcating) my lovely girlfriend 💖💖💖💖💖💖💖
+
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
