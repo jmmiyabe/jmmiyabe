@@ -21,6 +21,3 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work on a 
 
 ## Special Mention
 Hi! [@smcatingub](https://github.com/smcatingub) my lovely girlfriend 💖💖💖💖💖💖💖
-
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
