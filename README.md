@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work on a 
 - 🗄 Databases: MySQL
 - 🛠 Tools: Git, Laravel Sail, VS Code, and Docker
 
-## 📈 GitHub Stats
-
-![jmmiyabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmmiyabe&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 - [LinkedIn](www.linkedin.com/in/john-keisuke-miyabe-4b0032250)
 
